@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "delete-this-xxxxx",
+  "private_key_id": "something here",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nsomething here\nm/something here\nsomething here\nLsomething herebwf72Y/cqQL/MH3\nY75dXHTzZgiZnnpqJrQ8Aw3ewQ9Mz+something here\nmt3/zD6pT5+something here/+F0Z9YdKm/Ub0Y65qW2AU\nGfYA9u8QqbsXayUUN0xGRwH1VGpUVeevNOyznvlFZNgyCh1eB/+AwLeTd/a+GF2F\nfmCAMdVzicoHSAHphkWxLSwcvP32YilWojznupkL5I3vt2JNWoK0XkhwKkdg5hQL\nquAYF0G44Cpn+IkySnmqYL4wt+w3JfNZoWguGMJTKQKBgQDpPK+9qWRbToVV3mN2\n6I/rQwk4Gk162nW7UGq5qdH2no1Dq/43iHAsoGXdtHoO7yni3L3jRj7XHl5uTDDg\nlh7+GVzAGja8vIfF6bVDAQbBHfzc4ZqhlXUwKE5nJ0RbyKaEKP0dGsPj1iJSuURj\nBsp+rywSfHTENx3oPJKeOYfVFwKBgQDhUj/V4a3adY9kr6FsXswnQP6IRS+y66My\nD7Trj5Py3/CmMK5Pxa+IRy7E3ml6SkIlyWZNDQY/B5ufqlPdHqlchAgxKz9oTPV+\nx4TRlwYQZzFZqXvSjlwLD34xiwNERdIIG+aitsyyYOCd0MkrMGL9ZwldfwffokYi\nNr3odp11gwKBgDuzK+ypGiYA8EItfVonZwc6DncMzH5AwtfiWp8RZ8vvg4sp0BVY\n2BWkLM7V7lQ6RYdrJzOwfE9F17f1yqEB7AbwaPxG+XHP9BTloF75OUhfK6VCHfl0\nLx3Xg1IGDApOTskPUNKNUkzUN87i2y1ZxKUuo2JL9vtufDpAnurfIPSbAoGBAL/l\nc7ZtUMp4StpedeU8yzQ3N0/JVLlV1BRDqjrgeglkTajMVvhbjYZL0XobTcu3yKQz\n5WuDxykRCqotvuTYQzcmv29YvNTQjlgeBnEV5TU9HZuWK32EfsFwvXHmSa7wo9MC\nKCe19ZmJxmLBuUKOIBBem2xETulYY9CpvI1pz+qPAoGBAK3yGUcuUWtYokWvPHCq\n06OIudw85ELDXul+HgrPLFhGdQQslK944OYvzQiTr7AXfaKolueML5/AelFBLotT\nfbz7vXn2psKV2aex0z7htWwPWFlKWjhCHn0fcr9Mnq01I51Ge1jLu0zgwuu0pcPR\naZiiscP6eIcV4MuSnHTivMAb\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-something-here@delete-this-xxxxx.iam.gserviceaccount.com",
+  "client_id": "642872364872684238",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-3dnq4%40delete-this-xyzaas.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
